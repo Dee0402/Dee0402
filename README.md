@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Devanshi Yeole
 - 👀 I’m interested in Python,Machine learning,SQL,NLP,PowerBi,Data Analytics,Data science 
-- 🌱 I’m currently learning powerBi 
+- 🌱 I’m currently learning Data visualization
 - 📫 How to reach me yeoledevanshi0402@gmail.com
 - 😄 Pronouns: Creative, Punctual, management, team leader 
 
